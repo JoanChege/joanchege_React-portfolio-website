@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/joanchege_React-portfolio-website/static/css/main.f855e6bc.css",
+    "main.js": "/joanchege_React-portfolio-website/static/js/main.531f8b31.js",
+    "static/js/787.7da95b79.chunk.js": "/joanchege_React-portfolio-website/static/js/787.7da95b79.chunk.js",
+    "static/media/logo.svg": "/joanchege_React-portfolio-website/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/joanchege_React-portfolio-website/index.html",
+    "main.f855e6bc.css.map": "/joanchege_React-portfolio-website/static/css/main.f855e6bc.css.map",
+    "main.531f8b31.js.map": "/joanchege_React-portfolio-website/static/js/main.531f8b31.js.map",
+    "787.7da95b79.chunk.js.map": "/joanchege_React-portfolio-website/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.531f8b31.js"
+  ]
+}
